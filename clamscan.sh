@@ -11,7 +11,7 @@ freshclam
 # email subject
 SUBJECT="VIRUS DETECTED ON `hostname`!!!"
 # Email To ?
-EMAIL="piyush@ebizontek.com, sudeepgoyal@ebizontek.com, priyanka.jhamnani@ebizontek.com"
+EMAIL="YOURNAME@EMAIL.COM,YOURNAME2@EMAIL.COM"
 # Log location
 LOG=/mnt/clamav-logs/clamav-log_$day
  
